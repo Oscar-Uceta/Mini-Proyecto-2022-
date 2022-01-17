@@ -9,3 +9,5 @@
 // Me encantaria generar una factura con cada venta que se genere. Esta factura deberia incluir la fecha y hora actual, nombre del negocio, cliente, vendedor, articulo(s) (cantidad, precio, itbis) total de la venta, versiculo del dia. :)
 
 // Por favor, con cada clase que uses crea un archivo aparte e incluyelo en este como en el ejemplo.
+
+//prueba
