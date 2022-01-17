@@ -1,4 +1,4 @@
-# Mini-Proyecto-2022-Sistema de punto de venta en consola.
+# Mini-Proyecto-2022-(NodeJs)-Sistema de punto de venta en consola.
 
 --------------------------------------------------------------------CREAR USUARIO--------------------------------------------------------------
 const User = require('./User'); //Para llamar/utilizar/inicializar la clase usuario.
